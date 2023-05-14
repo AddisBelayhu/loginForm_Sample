@@ -14,3 +14,12 @@ body {
     border: 1px solid #ccc;
     background-color: #f9f9f9;
 }
+
+.signup-form input[type="text"],
+.signup-form input[type="email"],
+.signup-form input[type="password"] {
+
+    width: 100%;
+    padding:12px 20px;
+    margin: 8px 0;
+}
