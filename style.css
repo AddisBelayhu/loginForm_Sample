@@ -5,11 +5,12 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
+    background-color: beige;
 }
 
 .signup-container {
     max-width: 550px;
-    margin: 40px auto;
+    margin: 200px auto;
     padding: 20px;
     border: 1px solid #ccc;
     background-color: #f9f9f9;
